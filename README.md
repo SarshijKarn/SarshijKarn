@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SarshijKarn
-- 👀 I’m interested in ethical hacking and coding
-- 🌱 I’m currently learning how to make mod menus
-- 💞️ I’m looking to collaborate on mod menu developers and programmers
-- 📫 How to reach me through my email
+- 👀 I’m interested in ethical hacking,coding and trading.
+- 🌱 I’m currently doing my Bachelor's in Electronics,Communication & Information Engineering.
+- 📫 Feel free to ask me anything!
 
 <!---
 SarshijKarn/SarshijKarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
