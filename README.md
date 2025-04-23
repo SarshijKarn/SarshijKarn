@@ -31,20 +31,6 @@ It's still under development, But I'll bring it to life soon! 😁
 
 
 
-### 🧰 Tech Stack
-
-```bash
-💬 Languages:        C (Intermediate), C++, Python (Basic), HTML, CSS, JS
-⚙️ Tools & Tech:     Git, GitHub, VS Code, AI's
-🔍 Interests:         AI, IoT, Cybersecurity, Automation, JARVIS-like assistants
-
-<!---
-SarshijKarn/SarshijKarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
----
 
 ### 📫 Connect With Me
 
@@ -56,3 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### 🧰 Tech Stack
+
+```bash
+💬 Languages:        C (Intermediate), C++, Python (Basic), HTML, CSS, JS
+⚙️ Tools & Tech:     Git, GitHub, VS Code, AI's
+🔍 Interests:         AI, IoT, Cybersecurity, Automation, JARVIS-like assistants
