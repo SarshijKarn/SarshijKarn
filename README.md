@@ -42,3 +42,17 @@ It's still under development, But I'll bring it to life soon! 😁
 SarshijKarn/SarshijKarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+---
+
+### 📫 Connect With Me
+
+- 🌐 **Website**: [sarshijkarn.com.np](https://sarshijkarn.com.np)
+- 📷 **YouTube**: [Sarshij](https://youtube.com/@sarshijkarn))
+- 🐦 **Twitter**: [@SarshijKarn](https://x.com/sarshijkarn))]
+- 📧 **Email**: sarshijkarn333@gmail.com
+- 💻 **GitHub**: [@SarshijKarn](https://github.com/SarshijKarn)
+
+---
+
