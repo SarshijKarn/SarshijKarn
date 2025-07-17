@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sarshij Karn
 
-**AI-Powered Electronics & Communication Engineer**  
-🚀 Passionate about building smart tech solutions with AI & embedded systems.
+**AI-Powered Engineering Enthusiast**  
 
 [![View Resume](https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs)](https://github.com/SarshijKarn/SarshijKarn/blob/main/Sarshij-Karn-Resume-2025.pdf)
 
