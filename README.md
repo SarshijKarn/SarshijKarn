@@ -1,124 +1,40 @@
-## 👋 Hi, I'm Sarshij Karn
+# 👋 Hi, I'm Sarshij Karn
 
-### 🧠 AI-Powered Engineering Enthusiast | 💻 Electronics & Communication | 🌐 Web & AI Explorer
-
-📍 Kathmandu, Nepal
-📧 [sarshijkarn333@gmail.com](mailto:sarshijkarn333@gmail.com) | 📱 +977 9863918187
-🌐 [sarshijkarn.com.np](https://sarshijkarn.com.np)
-🔗 [LinkedIn](https://www.linkedin.com/in/sarshij-karn) | [GitHub](https://github.com/SarshijKarn)
+**AI-Powered Electronics & Communication Engineer**  
+Passionate about building smart tech solutions with AI & embedded systems.
 
 ---
 
-## 📄 My Resume
+## 🚀 Skills & Tools
 
-🎯 Want to know what I do?
-Check out my full resume with skills, experience, and awesome projects:
-
-[![📄 View My Resume](https://img.shields.io/badge/-View%20Resume-blueviolet?style=for-the-badge\&logo=read-the-docs\&logoColor=white)](https://github.com/SarshijKarn/SarshijKarn/blob/main/Sarshij-Karn-Resume-2025.pdf)
-
-💡 **Pro Tip:** Best viewed on desktop for full experience!
-
----
-
-## 🚀 Profile
-
-Insightful and dedicated engineering student passionate about applying technology to solve real-world challenges. Proficient in electronics, programming, and fluent in AI tools — always exploring emerging tech trends.
+<p align="left">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-## 🎓 Education
+## 📄 View My Resume
 
-* **Bachelor's in Electronics, Communication and Information Engineering**
-  National College Of Engineering (T.U), 2024 – Present | Lalitpur, Nepal
-
-* **Grade XII (NEB)**
-  Liverpool International College, 2022 – 2024 | GPA: 3.53
-
-* **Grade X (NEB)**
-  Happyland Secondary School, 2021 | GPA: 4.00
+[![View Resume](https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs)](https://github.com/SarshijKarn/SarshijKarn/blob/main/Sarshij-Karn-Resume-2025.pdf)
 
 ---
 
-## 🛠️ Technical Skills
+## 🔥 Selected Projects
 
-* **Languages**: C, C++, Python
-* **Web Dev**: HTML5, CSS3, JS, Git, GitHub
-* **Embedded Systems**: Arduino, Circuit Simulation, Signal & Systems
-* **Prompt Engineering**: GPT prompt design, automation, role agents
-* **AI & Automation**: OpenAI API, n8n, Zapier, etc.
-* **Cybersecurity**: Linux scripting, ethical hacking (learning)
-* **Tools**: VS Code, Arduino IDE, Colab, Replit, Trae
-* **Cloud/Hosting**: Netlify, Vercel, Cloudflare, GitHub Pages
-
-### 🤖 AI Fluency
-
-Proficient in integrating AI tools to accelerate dev, optimize workflows, and build smart systems.
-
----
-
-## 🧠 Soft Skills
-
-* Creative Problem-Solving
-* Self-Learning Ability
-* Cross-Domain Thinking (Engineering + AI + Finance)
-* Emotional Intelligence
-* Strong Communication
-* Growth Mindset
-* Consistency & Focus
-* Collaborative Team Player
-
----
-
-## 🗣️ Languages
-
-* English (Fluent)
-* Nepali (Native)
-* Hindi (Fluent)
-* Maithili (Conversational)
-
----
-
-## ❤️ Interests
-
-> Technology & AI • Financial Markets • Web & Tech Exploration
-> Sci-Fi & Biographies • Sports • Creative Writing • Hackathons • Reading Books
-
----
-
-## 💼 Projects
-
-### 🎭 Emotion Detection Model
-
-Python + OpenCV based deep learning model to detect human emotions in real time via facial expression.
-
-### 🌐 Personal Portfolio Website
-
-Built a responsive portfolio using HTML5, CSS3 & JS to showcase my journey, skills, and achievements.
-
-### 🧮 Gesture Based Calculator With Speech
-
-Gesture-controlled Python calculator using webcam finger tracking + voice output.
-
-### 🎙️ Habibi Assistant
-
-Offline AI voice assistant with OpenAI + SpeechRecognition for smart dialogue and tasks.
-
----
-
-## 🏆 Awards
-
-* **Merit-Based Scholarship**, Liverpool International College
-* **Full Merit Scholarship**, National College Of Engineering
-* **Hackathon/Workshop Participation Certificates** (Electronics, AI, Cybersecurity, Software)
-
----
-
-### ✨ Let’s connect, collab, or create something wild. My multiverse is just starting. 🌌
+- **Emotion Detection Model** — Real-time emotion recognition with Python & OpenCV  
+- **Portfolio Website** — Responsive site showcasing my skills and work  
+- **Habibi Assistant** — Offline AI voice assistant powered by OpenAI API
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SarshijKarn/SarshijKarn/main/dev-animate.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/SarshijKarn/SarshijKarn/main/dev-animate.gif" alt="Coding animation" width="70%" />
 </p>
 
-> 🔥 *Built with passion, caffeine, and a bit of madness.*
+---
+
+📫 Connect with me: [LinkedIn](https://linkedin.com/in/sarshij-karn) | [Website](https://sarshijkarn.com.np) | sarshijkarn333@gmail.com
