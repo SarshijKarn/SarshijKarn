@@ -45,14 +45,6 @@ I love solving problems, building intelligent systems, and exploring the limits 
 
 ---
 
-### 🔥 Fun Facts About Me
-
-- I once started building an **AI version of someone I loved** — not just as a memory, but as a technical challenge. 😅  
-- I love combining **software intelligence with hardware** to create smart and interactive systems.  
-- I enjoy pushing boundaries in **electronics, AI, and problem-solving challenges**.  
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
@@ -62,14 +54,5 @@ I love solving problems, building intelligent systems, and exploring the limits 
   <a href="mailto:sarshijkarn333@gmail.com"><img src="https://img.shields.io/badge/Email-sarshijkarn333@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/SarshijKarn"><img src="https://img.shields.io/badge/GitHub-@SarshijKarn-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
-
----
-
-### 🌟 Professional Highlights
-
-- Strong foundation in **electronics and communication engineering**  
-- Experienced with **AI frameworks and Python programming**  
-- Practical exposure to **embedded systems, IoT, and automation projects**  
-- Passionate about **building intelligent systems and learning cutting-edge tech**  
 
 ---
