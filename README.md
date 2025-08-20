@@ -2,7 +2,7 @@
 <p align="center">🧠 Electronics | 💻 Cybersecurity | 🚀 Information | </p>
 
 <p align="center">
-  <a href="https://github.com/SarshijKarn/SarshijKarn/blob/main/Resume/Sarshij-Karn-Resume.pdf">
+  <a href="https://drive.google.com/drive/u/0/folders/1WpxnEg6vDObX_3MoBV7VolKzUmeUQYE0">
     <img src="https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs" alt="View Resume">
   </a>
 </p>
