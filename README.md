@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarshij Karn 👋</h1>
-<p align="center">🧠 Electronics | 💻 Cybersecurity | 🚀 Information | </p>
+<p align="center">🧠 Electronics | 💻 Cybersecurity | 🚀 AI | </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/18JWGcjVW8AhXQ3qwGcBLzQ5F1PYys0jb/view?usp=drive_link">
