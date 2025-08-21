@@ -1,15 +1,21 @@
-<h1 align="center">Hi, I'm Sarshij Karn 👋</h1>
-<p align="center">🧠 Electronics | 💻 Cybersecurity | 🚀 AI | </p>
+![My SVG](data/bio.svg)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sarshij+Karn+👋" alt="Typing effect"/>
+</h1>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/18JWGcjVW8AhXQ3qwGcBLzQ5F1PYys0jb/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs" alt="View Resume">
+    <img src="https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" 
+         alt="View Resume"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SarshijKarn/SarshijKarn/main/dev-animate.gif" alt="Coding animation" width="70%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00CED1&center=true&vCenter=true&width=600&lines=AI+|+Cybersecurity+|+Electronics+|+Tech" 
+       alt="Tech Stack Animated"/>
 </p>
+
 
 ---
 
