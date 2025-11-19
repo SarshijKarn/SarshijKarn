@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/folders/1WpxnEg6vDObX_3MoBV7VolKzUmeUQYE0">
+  <a href="https://drive.google.com/file/d/1nn8mADAI4f16z1hIAQJaOu-G602K8ifx/view?usp=sharing">
     <img src="https://img.shields.io/badge/View%20Resume-blueviolet?style=for-the-badge&logo=read-the-docs&logoColor=white" 
          alt="View Resume"/>
   </a>
