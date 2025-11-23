@@ -49,9 +49,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=FF6F61&center=true&vCenter=true&width=700&lines=📊+GitHub+%26+Tech+Stats" alt="Stats Typing"/>
 </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarshijKarn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+### **Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarshijKarn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+### **Streak Stats**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SarshijKarn&theme=tokyonight&hide_border=true"/>
+
+---
+
+### **GitHub Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarshijKarn&theme=tokyo-night&hide_border=true"/>
+
+---
+
+### **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=SarshijKarn&theme=tokyonight&no-frame=true&margin-w=8"/>
+
+---
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/SarshijKarn/SarshijKarn/output/github-contribution-grid-snake.svg"/>
+
+
+</div>
 
 ---
 
