@@ -56,11 +56,6 @@
 
 ---
 
-### **Streak Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SarshijKarn&theme=tokyonight&hide_border=true"/>
-
----
-
 ### **GitHub Activity Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarshijKarn&theme=tokyo-night&hide_border=true"/>
 
@@ -68,15 +63,6 @@
 
 ### **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=SarshijKarn&theme=tokyonight&no-frame=true&margin-w=8"/>
-
----
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/SarshijKarn/SarshijKarn/output/github-contribution-grid-snake.svg"/>
-
-
-
-</div>
 
 ---
 
