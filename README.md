@@ -56,11 +56,6 @@
 
 ---
 
-### **GitHub Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarshijKarn&theme=tokyo-night&hide_border=true"/>
-
----
-
 ### **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=SarshijKarn&theme=tokyonight&no-frame=true&margin-w=8"/>
 
