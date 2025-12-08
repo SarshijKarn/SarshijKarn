@@ -46,22 +46,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=FF6F61&center=true&vCenter=true&width=700&lines=📊+GitHub+%26+Tech+Stats" alt="Stats Typing"/>
-</h2>
-
-<div align="center">
-
-### **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarshijKarn&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
-### **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=SarshijKarn&theme=tokyonight&no-frame=true&margin-w=8"/>
-
----
-
-<h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00CED1&center=true&vCenter=true&width=700&lines=📫+Connect+With+Me" alt="Connect Typing"/>
 </h2>
 
